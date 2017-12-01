@@ -51,8 +51,8 @@ group :development do
 end
 
 group :production do
-  # postgress db
-  gem 'pg'
+  # sqlite3 db
+  gem 'sqlite3'
   #only for rails 4
   gem 'rails_12factor'
 end
