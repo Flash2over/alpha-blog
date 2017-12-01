@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 This is the repository for the first alpha-blog app of the Complete Ruby on Rails Developer Course
+=======
+This is the repository for the first alpha-blog app of the Complete Ruby on Rails Developer Course
+
+moved to codeanywhere
+>>>>>>> 8f3cac8047f0c2182440ed9744f01e75a8c3b969
